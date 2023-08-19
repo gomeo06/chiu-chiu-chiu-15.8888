@@ -74,3 +74,4 @@ export default async function(req: NowRequest, res: NowResponse): Promise<NowRes
     return res.status(500).send('An unknown error occurred.')
   }
 }
+#note: ok
