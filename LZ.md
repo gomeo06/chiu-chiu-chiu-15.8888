@@ -1,0 +1,1 @@
+Say Hello to LayerZero. An Omnichain Interoperability Protocol. LayerZero enables the realisation of Cross-Chain Application with A Low Level Communication Primitive.
